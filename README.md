@@ -1,0 +1,2 @@
+# snippets-php
+PHP experiments
